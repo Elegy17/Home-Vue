@@ -15,8 +15,8 @@
     "icon": "fa fa-chart-line"
   },
   {
-    "name": "New-API",
+    "name": "LLM",
     "url": "https://new.00000106.xyz/",
-    "icon": "fa fa-webhook"
+    "icon": "fa fa-hexagon-nodes"
   }
 ]
