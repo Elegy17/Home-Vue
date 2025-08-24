@@ -18,5 +18,15 @@
     "name": "LLM",
     "url": "https://new.00000106.xyz/",
     "icon": "fa fa-brain  "
+  },
+  {
+    "name": "封面",
+    "url": "https://cover.00000106.xyz",
+    "icon": "fa fa-panorama"
+  },
+  {
+    "name": "图标",
+    "url": "https://icon.ruom.top/",
+    "icon": "fa fa-icons"
   }
 ]
