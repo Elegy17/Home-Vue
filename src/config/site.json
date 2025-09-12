@@ -5,27 +5,31 @@
     "icon": "fa fa-blog"
   },
   {
-    "name": "图床",
+    "name": "圖牀",
     "url": "https://img2.00000106.xyz/",
     "icon": "fa fa-image"
   },
   {
-    "name": "监测",
+    "name": "監測",
     "url": "https://status.00000106.xyz/",
     "icon": "fa fa-chart-line"
   },
-  {
+/*  {
     "name": "LLM",
     "url": "https://new.00000106.xyz/",
     "icon": "fa fa-brain  "
-  },
+  },*\
+  {
+    "name": "音樂"
+    "url": "https://music.00000106.xyz/"
+    "icon": "fa fa-music"
   {
     "name": "封面",
     "url": "https://cover.00000106.xyz",
     "icon": "fa fa-panorama"
   },
   {
-    "name": "图标",
+    "name": "圖標",
     "url": "https://icon.00000106.xyz/",
     "icon": "fa fa-icons"
   }
