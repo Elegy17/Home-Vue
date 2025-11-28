@@ -18,9 +18,6 @@
     "name": "LLM",
     "url": "https://new.00000106.xyz/",
     "icon": "fa fa-brain"
-    "name": "图床",
-    "url": "https://dev.bsgun.cn",
-    "icon": "fa fa-image"
   },
   {
     "name": "封面",
@@ -30,8 +27,6 @@
   {
     "name": "圖標",
     "url": "https://icon.00000106.xyz/",
-    "name": "图标",
-    "url": "https://icon.bsgun.cn/",
     "icon": "fa fa-icons"
   }
 ]
